@@ -1,10 +1,12 @@
-# Mudit Kumar aka technolucent
-Building AI apps with Python & LLMs | Open to AI roles
+# Mudit Kumar
+Building AI apps with Python, LangChain & LLMs | Open to AI roles
 
 ### Skills
-Python · PyTorch · LangChain · Hugging Face · FastAPI
+Python · LangChain · Hugging Face · FAISS · RAG · FastAPI · PyTorch
 
-### Current Projects
-- [Simple RAG Chatbot](https://github.com/technolucent/Simple-rag-chatbot) — LangChain + Hugging Face starter
+### Projects
+- [Simple RAG Chatbot](https://github.com/technolucent/Simple-rag-chatbot) — Retrieval + generation with LangChain & Hugging Face
+- [HF Model Test](https://github.com/technolucent/hf-model-test) — Hugging Face model loading starter
 
-- [HF Model Test](https://github.com/technolucent/hf-model-test) — Testing Hugging Face models
+### Contact
+Open to AI / ML roles and collaborations.
