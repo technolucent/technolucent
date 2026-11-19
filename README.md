@@ -4,6 +4,5 @@ Building AI apps with Python & LLMs | Open to AI roles
 ### Skills
 Python · PyTorch · LangChain · Hugging Face · FastAPI
 
-
-# Simple RAG Chatbot
-Building a simple RAG chatbot with LangChain + Hugging Face
+### Current Projects
+- [Simple RAG Chatbot](https://github.com/technolucent/Simple-rag-chatbot) — LangChain + Hugging Face starter
